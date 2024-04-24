@@ -1,4 +1,4 @@
-Exploratory Data Analysis - Python Project
+**Exploratory Data Analysis - Python Project**
 
 **Predicting Key Metrics for Movie Production**
 
