@@ -1,3 +1,5 @@
+Exploratory Data Analysis - Python Project
+
 **Predicting Key Metrics for Movie Production**
 
 The dataset was cleaned up and analysed to **assess probability of success of a movie based on 3 criteria**:
